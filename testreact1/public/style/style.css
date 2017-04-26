@@ -4,7 +4,10 @@
 }
 
 .search-bar input {
-    width: 64px;
+    width: 75%;
+}
+.video-item img {
+    max-width: 64px;
 }
 
 .video-detail .details {
